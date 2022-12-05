@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "store": "First",
+  "books": [
+    {
+      "name": "Intresting",
+      "author": "Carl"
+    },
+    {
+      "name": "Strange",
+      "author": "Marks"
+    }
+  ],
+  "address": "Lenina str."
+}
